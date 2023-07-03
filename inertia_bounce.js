@@ -1,3 +1,7 @@
+/**
+*  Author: Dan Ebberts at motionscript.com
+*/
+
 n = 0;
 if (numKeys > 0) {
   n = nearestKey(time).index;
