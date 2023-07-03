@@ -1,5 +1,5 @@
 # AE-Scripts
-this contains script expressions for After effects
+This contains script expressions for After effects
 
 
 # Imp Links: 
