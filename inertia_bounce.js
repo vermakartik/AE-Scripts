@@ -13,6 +13,7 @@ if (n == 0) {
 
 if (n > 0 && t < 1) {
   v = velocityAtTime(key(n).time - thisComp.frameDuration / 10);
+  // Change amp : Amplitude, freq : Frequency of bounce, decay : Rate at which decay will occur.
   amp = 0.05;
   freq = 4.0;
   decay = 8.0;
