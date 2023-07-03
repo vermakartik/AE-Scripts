@@ -2,7 +2,7 @@
 This contains script expressions for After effects.
 
 
-#Why Reinvent the wheel?
+# Why Reinvent the wheel?
 ## Lets Face It. You are not perfect and don't know everything. It's ok to use someone else's expressions :-) 
 
 
